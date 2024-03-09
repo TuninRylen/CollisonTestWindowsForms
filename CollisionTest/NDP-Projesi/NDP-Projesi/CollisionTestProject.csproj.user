@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SilindirVsSilindir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KureVsKure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SilindirVsKure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DikdortgenPrizmaVsKure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DikdortgenPrizmaVsDikdortgenPrizma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DuzlemVsDikdortgenPrizma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DuzlemVsKure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DuzlemVsSilindir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DikdortgenVsDaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DikdortgenVsDikdortgen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DaireVsDaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DikdortgenVsNokta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DaireVsNokta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DikdortgenPrizmaVsNokta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KureVsNokta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SilindirVsNokta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

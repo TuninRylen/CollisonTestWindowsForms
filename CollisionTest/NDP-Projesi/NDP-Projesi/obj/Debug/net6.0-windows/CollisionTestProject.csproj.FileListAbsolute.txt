@@ -1,0 +1,64 @@
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\CollisionTestProject.exe
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\CollisionTestProject.deps.json
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\CollisionTestProject.runtimeconfig.json
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\CollisionTestProject.dll
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\CollisionTestProject.pdb
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DaireVsDaire.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DaireVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenPrizmaVsDikdortgenPrizma.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenPrizmaVsKure.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenPrizmaVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenVsDaire.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenVsDikdortgen.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DuzlemVsDikdortgenPrizma.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DuzlemVsKure.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DuzlemVsSilindir.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.KureVsKure.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.KureVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Menu.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.SilindirVsKure.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.SilindirVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.SilindirVsSilindir.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.csproj.GenerateResource.cache
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.AssemblyInfoInputs.cache
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.AssemblyInfo.cs
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.dll
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\refint\CollisionTestProject.dll
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.pdb
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.genruntimeconfig.cache
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\ref\CollisionTestProject.dll
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\CollisionTestProject.exe
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\CollisionTestProject.deps.json
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\CollisionTestProject.runtimeconfig.json
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\CollisionTestProject.dll
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\CollisionTestProject.pdb
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DaireVsDaire.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DaireVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenPrizmaVsDikdortgenPrizma.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenPrizmaVsKure.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenPrizmaVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenVsDaire.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenVsDikdortgen.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DuzlemVsDikdortgenPrizma.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DuzlemVsKure.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DuzlemVsSilindir.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.KureVsKure.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.KureVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Menu.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.SilindirVsKure.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.SilindirVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.SilindirVsSilindir.resources
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.csproj.GenerateResource.cache
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.AssemblyInfoInputs.cache
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.AssemblyInfo.cs
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.dll
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\refint\CollisionTestProject.dll
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.pdb
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\CollisionTestProject.genruntimeconfig.cache
+C:\Users\ugrst\OneDrive\Masaüstü\CollisionTest\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\ref\CollisionTestProject.dll

@@ -1,0 +1,65 @@
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\NDP-Projesi.exe
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\NDP-Projesi.deps.json
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\NDP-Projesi.runtimeconfig.json
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\NDP-Projesi.dll
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\NDP-Projesi.pdb
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.csproj.AssemblyReference.cache
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form1.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.csproj.GenerateResource.cache
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.AssemblyInfoInputs.cache
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.AssemblyInfo.cs
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.dll
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\refint\NDP-Projesi.dll
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.pdb
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.genruntimeconfig.cache
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\ref\NDP-Projesi.dll
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form2.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form3.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form4.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form5.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form6.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form7.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form8.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form9.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form10.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form11.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form12.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form13.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form14.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form15.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form16.resources
+C:\Users\ugrst\OneDrive\Masaüstü\projeler\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Form17.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\NDP-Projesi.exe
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\NDP-Projesi.deps.json
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\NDP-Projesi.runtimeconfig.json
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\NDP-Projesi.dll
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\bin\Debug\net6.0-windows\NDP-Projesi.pdb
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.csproj.GenerateResource.cache
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.AssemblyInfoInputs.cache
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.AssemblyInfo.cs
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.dll
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\refint\NDP-Projesi.dll
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.pdb
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP-Projesi.genruntimeconfig.cache
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\ref\NDP-Projesi.dll
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.SilindirVsSilindir.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.KureVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.SilindirVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DaireVsDaire.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DaireVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenPrizmaVsDikdortgenPrizma.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenPrizmaVsKure.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenPrizmaVsNokta.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenVsDaire.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DikdortgenVsDikdortgen.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DuzlemVsDikdortgenPrizma.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DuzlemVsKure.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.DuzlemVsSilindir.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.KureVsKure.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.Menu.resources
+C:\Users\ugrst\OneDrive\Masaüstü\VeriYapılarıÖdevleri\NDP Projesi b221210063\NDP-Projesi\NDP-Projesi\obj\Debug\net6.0-windows\NDP_Projesi.SilindirVsKure.resources

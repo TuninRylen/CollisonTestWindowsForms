@@ -1,0 +1,5 @@
+C:\Users\ugrst\OneDrive\Masaüstü\NDP-Projesi.exe
+C:\Users\ugrst\OneDrive\Masaüstü\NDP-Projesi.dll
+C:\Users\ugrst\OneDrive\Masaüstü\NDP-Projesi.deps.json
+C:\Users\ugrst\OneDrive\Masaüstü\NDP-Projesi.runtimeconfig.json
+C:\Users\ugrst\OneDrive\Masaüstü\NDP-Projesi.pdb
